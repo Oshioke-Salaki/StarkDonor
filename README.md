@@ -1,1 +1,2 @@
 # StarkDonor
+StarkDonor is a decentralised donation platform built on StarkNet, designed to revolutionise the way fundraising campaigns are conducted. By leveraging on starknet technology, StarkDonor ensures transparency, security, and efficiency in the donation process, empowering project owners and donors with a decentralised system. With StarkDonor, users can create and manage fundraising campaigns, generate unique payment links, and accept donations in STRK, USDC or DAI, all while maintaining full transparency and minimizing administrative costs.
